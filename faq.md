@@ -1,17 +1,13 @@
-﻿# Frequently Asked Questions
+# Frequently Asked Questions
 
-## How do I install the product?
+## How do I get my tags to show up?
+Just add the system and put into server script service thats it.
 
-See the [Installation guide](/getting-started/installation).
+## Do I need a specific Gamepass ID?
+Yes, you must replace the `GAMEPASS_ID` in the script with your own Roblox Gamepass ID for the VIP tag to work.
 
-## Is there a free plan?
+## Can I use this with another chat system?
+Currently, Green Chat Tags is built specifically for Roblox's `TextChatService`. It will **NOT** work with legacy chat or third-party chat mods.
 
-Yes — the basic tier is free forever.
-
-## How do I reset my password?
-
-Click **Forgot password** on the login page and follow the email link.
-
-## Where can I get support?
-
-Open a GitHub issue or contact us at support@example.com.
+## Will this get me banned?
+No, as long as the script is used as intended, it follows Roblox ToS. However, we are not responsible if you modify the script to break Roblox rules.
