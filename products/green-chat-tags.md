@@ -1,3 +1,4 @@
+```markdown
 # Green Chat Tags
 
 Welcome to the setup guide for **Green Chat Tags**. This addon allows players to view their active chat tags using the `/tags` command, and automatically assigns a vibrant green tag to players who own a specific GamePass.
