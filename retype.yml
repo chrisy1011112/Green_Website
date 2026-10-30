@@ -1,9 +1,9 @@
-﻿input: .
+input: .
 output: .retype
-url: https://your-site.pages.dev
+url: https://green-website.chrissmith10111213.workers.dev
 
 branding:
-  title: My Support
+  title: Green Website
   label: Docs
 
 links:
@@ -28,6 +28,17 @@ navigation:
         link: /getting-started/introduction
       - text: Installation
         link: /getting-started/installation
+  - text: Products
+    icon: box
+    items:
+      - text: Green Chat Tags
+        link: /products/green-chat-tags
+      - text: Green Chat Tags (Server)
+        link: /products/green-chat-tags-server
+      - text: Green Chat Tags (Client)
+        link: /products/green-chat-tags-client
+  - text: Status
+    link: /status
   - text: FAQ
     link: /faq
   - text: Troubleshooting
