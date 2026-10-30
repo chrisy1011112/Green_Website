@@ -29,14 +29,15 @@ navigation:
       - text: Installation
         link: /getting-started/installation
   - text: Products
-    icon: box
     items:
       - text: Green Chat Tags
-        link: /products/green-chat-tags
-      - text: Green Chat Tags (Server)
-        link: /products/green-chat-tags-server
-      - text: Green Chat Tags (Client)
-        link: /products/green-chat-tags-client
+        items:
+          - text: Settings
+            link: /products/green-chat-tags/readme
+          - text: Server Script
+            link: /products/green-chat-tags/server
+          - text: Client Script
+            link: /products/green-chat-tags/client
   - text: Status
     link: /status
   - text: FAQ
