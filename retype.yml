@@ -38,9 +38,25 @@ navigation:
             link: /products/green-chat-tags/server
           - text: Client Script
             link: /products/green-chat-tags/client
-  - text: Status
-    link: /status
-  - text: FAQ
-    link: /faq
-  - text: Troubleshooting
-    link: /troubleshooting
+  - text: Resources
+    items:
+      - text: Roadmap
+        link: /roadmap
+      - text: FAQ
+        link: /faq
+      - text: Troubleshooting
+        link: /troubleshooting
+  - text: Company
+    items:
+      - text: About Us
+        link: /about
+      - text: Contact Us
+        link: /contact
+      - text: Credits
+        link: /credits
+      - text: Licensing
+        link: /licensing
+      - text: Terms of Service
+        link: /terms
+      - text: Refund Policy
+        link: /refunds
