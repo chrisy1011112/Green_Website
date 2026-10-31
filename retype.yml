@@ -60,3 +60,7 @@ navigation:
         link: /terms
       - text: Refund Policy
         link: /refunds
+- text: Vip
+    items:
+      - text: Introduction
+        link: /Vip/Perks
