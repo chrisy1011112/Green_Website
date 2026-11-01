@@ -20,7 +20,7 @@ search:
   hotkeys:
     - /
     - k
-
+    
 navigation:
   - text: Getting Started
     items:
