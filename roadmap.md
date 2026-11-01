@@ -1,12 +1,12 @@
 # Roadmap
 
-Here is what we are currently working on and what is planned for the future. 
+Here's what we're currently working on and what's planned for the future.
 
 ## 🚧 In Progress
-- **[In Progress]** Green Pos
+- Green Pos
 
 ## 📅 Planned
-- **[Planned]** NOT SURE
+- *To be determined*
 
 ## 💡 Considering
-- NOT SURE
+- *To be determined*
