@@ -1,6 +1,11 @@
 # Green Hospitality Signs
 
-Welcome to the product guide for **Green Hospitality Signs**. Every sign is a physical part with a SurfaceGui — there's nothing to configure or set up, they simply work as soon as they're placed.
+Welcome to the product guide for **Green Hospitality Signs**. 
+
+**What is Hospitality?**
+In this context, hospitality refers to the food service, hotel, and customer service industries. These environments require strict health, safety, and hygiene standards to protect both staff and guests. Our signs help you meet those standards effortlessly.
+
+Every sign is a physical part with a SurfaceGui — there's nothing to configure or set up, they simply work as soon as they're placed.
 
 ## Products
 
