@@ -6,7 +6,7 @@ Here's what we're currently working on and what's planned for the future.
 - **Green Pos**
 
 ## 📅 Planned
-- **Green Hospitality **
+- **Green Hospitality**
 
 ## 💡 Considering
 - **Not Decided**
